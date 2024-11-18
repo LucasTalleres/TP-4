@@ -1,7 +1,5 @@
-Descripción: 
-Este programa permite gestionar la ocupación y estadísticas de los vuelos de una aerolínea. Utiliza archivos XML para almacenar y cargar datos, y ofrece un menú interactivo para realizar diversas operaciones relacionadas con los vuelos y los pasajeros.
+Este programa permite gestionar la ocupación y estadísticas de los vuelos de una aerolínea. Usa archivos XML para almacenar y cargar datos, y ofrece un menú interactivo para realizar diversas operaciones relacionadas con los vuelos y los pasajeros.
 
-Funcionalidades: 
 El programa incluye las siguientes funcionalidades:
 
 Agregar un vuelo: Permite al usuario agregar un nuevo vuelo indicando su código, fechas y horas de salida y llegada, nombres de piloto y copiloto, y capacidad máxima.
@@ -17,12 +15,6 @@ Buscar vuelo por código: Permite buscar un vuelo específico por su código y m
 Listar vuelos ordenados por ocupación: Muestra todos los vuelos ordenados según su porcentaje de ocupación, de mayor a menor.
 
 Cargar y guardar datos: Los datos se recuperan de un archivo XML al iniciar el programa y se guardan al finalizar.
-
-Uso: 
-Cloná este repositorio en tu pc.
-Abrí el proyecto en el entorno de desarrollo que mas te guste.
-Ejecutá el programa.
-Seguí las instrucciones en pantalla para interactuar con el menú.
 
 Ejemplo de uso: 
 Al iniciar el programa, se mostrará un menú con las opciones disponibles.
